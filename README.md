@@ -17,6 +17,7 @@ This project involves:
 PROJECT STRUCTURE
 1. Database setup
 - The project start by creating a database named 'retail_db'
+- - **Database Creation**: The project starts by creating a database named `p1_retail_db`.
 - Table named [retailsale_sql]
 3. Data exploration & cleaning
 4. Data analysis and findings
