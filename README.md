@@ -13,3 +13,12 @@ This project involves:
 2. Data Cleaning: Identify and remove any records with missing or null values.
 3. Exploratory Data Analysis (EDA): Perform basic exploratory data analysis to understand the dataset.
 4. Business Analysis: Use SQL to answer specific business questions and derive insights from the sales data.
+
+PROJECT STRUCTURE
+1. Database setup
+- The project start by creating a database named [retail_db] and a table named [retailsale_sql]
+3. Data exploration & cleaning
+4. Data analysis and findings
+
+Report
+Conclusion
